@@ -3,7 +3,7 @@ package org.jase.questions;
 // References interface
 public class AsteriskLogger implements Logger {
 
-    // Setting up the constant of three asterisks to be reused
+    // Setting up the constant of 3 asterisks to be reused
     private static final String MESSAGE_ASTERISKS = "***";
 
     // Marking the methods w/ @Override because they implement interface methods
